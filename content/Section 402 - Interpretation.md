@@ -232,47 +232,29 @@ For the purposes of this Chapter,—
 ## 27 Person Responsible for Paying
 
 "Person responsible for paying" means—
-
  (a) in the case of payments of income chargeable under the head "Salaries", other than payments by the Central Government or the State Government—
-
-   (i) the employer himself; or
-
-   (ii) if the employer is a company, the company itself, including the principal officer thereof;
-
+	   (i) the employer himself; or
+	   (ii) if the employer is a company, the company itself, including the principal officer thereof;
  (b) in the case of payments of income chargeable under the head "Interest on securities", other than payments made by or on behalf of the Central Government or State Government, local authority, corporation or company, including the principal officer thereof;
-
  (c) in the case of any sum payable to a [[#23 Non-Resident Indian|non-resident Indian]], being any sum representing consideration for the transfer by him of any [[#16 Foreign Exchange Asset|foreign exchange asset]], which is not a short-term capital asset, the authorised person, referred in clause (c) of section 2 of the Foreign Exchange Management Act, 1999 (42 of 1999), responsible—
-
-   (i) for remitting such sum to the non-resident Indian; or
-
-   (ii) for crediting such sum to his Non-resident (External) Account maintained as per the provisions of the Foreign Exchange Management Act, 1999 (42 of 1999), and any rules made thereunder;
-
+	   (i) for remitting such sum to the non-resident Indian; or
+	   (ii) for crediting such sum to his Non-resident (External) Account maintained as per the provisions of the Foreign Exchange Management Act, 1999 (42 of 1999), and any rules made thereunder;
  (d) in the case of furnishing of information relating to payment to a non-resident, not being a company, or to a foreign company, of any sum, whether or not chargeable under the provisions of this Act—
-
-   (i) the payer himself; or
-
-   (ii) if the payer is a company, the company itself including the principal officer thereof;
+	   (i) the payer himself; or
+	   (ii) if the payer is a company, the company itself including the principal officer thereof;
 
  (e) in the case of credit, or, as the case may be, payment of any other sum chargeable under the provisions of this Act—
-
    (i) the payer himself; or
-
    (ii) if the payer is a company, the company itself including the principal officer thereof;
 
  (f) in the case of credit, or as the case may be, payment of any sum chargeable under the provisions of this Act made by or on behalf of the Central Government or the State Government—
-
    (i) the drawing and disbursing officer; or
-
    (ii) any other person, by whatever name called,
-
    responsible for crediting, or paying such sum;
 
  (g) in the case of a person not resident in India—
-
    (i) the person himself; or
-
    (ii) any person authorised by such person; or
-
    (iii) the agent of such person in India including any person treated as an agent under section 306.
 
 > *[Clause 27(c) substituted — "authorised person, referred in clause (c) of section 2 of the Foreign Exchange Management Act, 1999 (42 of 1999), responsible" — by the Finance Act, 2026, w.e.f. 1-4-2026.]*

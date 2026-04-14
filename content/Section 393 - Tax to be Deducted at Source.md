@@ -21,10 +21,10 @@ Where any income or sum of the nature specified in column B of the Table below, 
 
 #### Sl. No. 1 — Commission or Brokerage
 
-| Sl. No. | Nature of income or sum | Payer | Rate / Threshold Limit |
-|---------|------------------------|-------|----------------------|
-| 1(i) | Any income by way of remuneration or reward, whether by way of [[Section 402 - Interpretation#7 Commission or Brokerage\|commission]] or otherwise, for soliciting or procuring insurance business (including business relating to the continuance, renewal or revival of insurance policies). | Any person. | Rate: Rates in force. Threshold limit: ₹ 20,000. |
-| 1(ii) | Any income by way of [[Section 402 - Interpretation#7 Commission or Brokerage\|commission]] [not being insurance commission referred to in serial number 1(i)] or brokerage. | [[Section 402 - Interpretation#37 Specified Person\|Specified person]]. | Rate: 2%. Threshold limit: ₹ 20,000. |
+| Sl. No. | Nature of income or sum                                                                                                                                                                                                                                                                        | Payer                                                                   | Rate / Threshold Limit                           |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------ |
+| 1(i)    | Any income by way of remuneration or reward, whether by way of [[Section 402 - Interpretation#7 Commission or Brokerage\|commission]] or otherwise, for soliciting or procuring insurance business (including business relating to the continuance, renewal or revival of insurance policies). | Any person.                                                             | Rate: Rates in force. Threshold limit: ₹ 20,000. |
+| 1(ii)   | Any income by way of [[Section 402 - Interpretation#7 Commission or Brokerage\|commission]] [not being insurance commission referred to in serial number 1(i)] or brokerage.                                                                                                                   | [[Section 402 - Interpretation#37 Specified Person\|Specified person]]. | Rate: 2%. Threshold limit: ₹ 20,000.             |
 
 #### Sl. No. 2 — Rent
 

@@ -1,0 +1,2 @@
+
+Income payable in respect of units of the Unit Trust of India to a non-resident Indian or a non-resident Hindu undivided family, shall not be subject to deduction of tax at source, where such units have been acquired from the Unit Trust of India out of the funds in a non-resident (External) account, maintained with any bank in India or by remittance of funds in foreign currency, in accordance, in either case, with the provisions of the Foreign Exchange Management Act, 1999 (42 of 1999), and the rules made thereunder.
