@@ -7,10 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [],
   footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
+    links: {},
   }),
 }
 
@@ -23,7 +20,6 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.TagList(),
   ],
   left: [
     Component.PageTitle(),
@@ -38,10 +34,20 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      folderDefaultState: "open",
+      folderClickBehavior: "link",
+      useSavedState: true,
+      mapFn: (node) => {
+        // Truncate long display names in the explorer sidebar
+        if (node.displayName && node.displayName.length > 55) {
+          node.displayName = node.displayName.substring(0, 52) + "..."
+        }
+        return node
+      },
+    }),
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
@@ -62,7 +68,17 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      folderDefaultState: "open",
+      folderClickBehavior: "link",
+      useSavedState: true,
+      mapFn: (node) => {
+        if (node.displayName && node.displayName.length > 55) {
+          node.displayName = node.displayName.substring(0, 52) + "..."
+        }
+        return node
+      },
+    }),
   ],
   right: [],
 }
