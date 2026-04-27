@@ -1,9 +1,3 @@
-# Section 402 — Interpretation
-
-> **Chapter XIX — Collection and Recovery of Tax**
-> **Part B — Deduction and Collection at Source**
-
----
 
 For the purposes of this Chapter,—
 
@@ -18,9 +12,7 @@ For the purposes of this Chapter,—
 ## 2 Agricultural Land
 
 "Agricultural land" means agricultural land in India,—
-
  (a) not being a land situated in any area referred to in section 2(22)(iii), for the purposes of [[Section 393 - Tax to be Deducted at Source|section 393(1)]] [Table: Sl. No. 3(i)];
-
  (b) including a land situated in any area referred to in section 2(22)(iii), for the purposes of [[Section 393 - Tax to be Deducted at Source|section 393(1)]] [Table: Sl. No. 3(iii)].
 
 ---
@@ -28,10 +20,8 @@ For the purposes of this Chapter,—
 ## 3 Incorrect Claim Apparent from Information in Statement
 
 "An incorrect claim apparent from any information in the statement" shall mean a claim, on the basis of an entry, in the statement—
-
- (a) of an item, which is inconsistent with another entry of the same or some other item in such statement;
-
- (b) in respect of rate of deduction of tax at source or rate of collection of tax at source, where such rate is not as per the provisions of the Act.
+	(a) of an item, which is inconsistent with another entry of the same or some other item in such statement;
+	(b) in respect of rate of deduction of tax at source or rate of collection of tax at source, where such rate is not as per the provisions of the Act.
 
 ---
 
@@ -66,12 +56,9 @@ For the purposes of this Chapter,—
 ## 7 Commission or Brokerage
 
 "Commission or brokerage" includes any payment received or receivable, directly or indirectly, by a person acting on behalf of another person,—
-
- (a) for services rendered (not being [[#28 Professional Services|professional services]]); or
-
- (b) for any services in the course of buying or selling of goods; or
-
- (c) in relation to any transaction relating to any asset, valuable article or thing, not being [[#32 Securities|securities]].
+	(a) for services rendered (not being [[#28 Professional Services|professional services]]); or
+	(b) for any services in the course of buying or selling of goods; or
+	(c) in relation to any transaction relating to any asset, valuable article or thing, not being [[#32 Securities|securities]].
 
 ---
 
@@ -84,18 +71,12 @@ For the purposes of this Chapter,—
 ## 9 Consideration for Transfer of Immovable Property
 
 "Consideration for transfer of any [[#19 Immovable Property|immovable property]]" shall include all charges of the nature of,—
-
- (a) club membership fee; or
-
- (b) car parking fee; or
-
- (c) electricity or water facility fee; or
-
- (d) maintenance fee; or
-
- (e) advance fee; or
-
- (f) or any other charges of similar nature, which are incidental to transfer of the immovable property.
+	(a) club membership fee; or
+	(b) car parking fee; or
+	(c) electricity or water facility fee; or
+	(d) maintenance fee; or
+	(e) advance fee; or
+	(f) or any other charges of similar nature, which are incidental to transfer of the immovable property.
 
 ---
 
@@ -108,34 +89,20 @@ For the purposes of this Chapter,—
 ## 11 Designated Person
 
 "Designated person", for the purposes of [[Section 393 - Tax to be Deducted at Source|section 393(1)]] [Table: Sl. No. 6(i)], means—
-
  (a) the Central Government or any State Government; or
-
  (b) any local authority; or
-
  (c) any corporation established by or under a Central Act or State Act or Provincial Act; or
-
  (d) any company; or
-
  (e) any co-operative society; or
-
  (f) any authority, constituted in India by or under any law, engaged either for the purpose of dealing with and satisfying the need for housing accommodation or for the purpose of planning, development or improvement of cities, towns and villages, or for both; or
-
  (g) any society registered under the Societies Registration Act, 1860 (21 of 1860) or under any law corresponding to that Act in force in any part of India; or
-
  (h) any trust; or
-
  (i) any University established or incorporated by or under a Central Act or State Act or Provincial Act and an institution declared to be a university under section 3 of the University Grants Commission Act, 1956 (3 of 1956); or
-
  (j) any Government of a foreign State or a foreign enterprise or any association or body established outside India; or
-
  (k) any firm; or
-
  (l) any person, being an individual or a Hindu undivided family or an association of persons or a body of individuals, if such person,—
-
-   (i) does not fall under any of the preceding sub-clauses; and
-
-   (ii) has total sales, gross receipts or turnover from business or profession carried on by him exceeding one crore rupees in case of business or fifty lakh rupees in case of profession during the tax year immediately preceding the tax year in which such sum is credited or paid to the account of the contractor.
+	 (i) does not fall under any of the preceding sub-clauses; and
+	 (ii) has total sales, gross receipts or turnover from business or profession carried on by him exceeding one crore rupees in case of business or fifty lakh rupees in case of profession during the tax year immediately preceding the tax year in which such sum is credited or paid to the account of the contractor.
 
 ---
 
@@ -159,7 +126,10 @@ For the purposes of this Chapter,—
 
 ## 15 Fees for Technical Services
 
-"Fees for technical services" shall have the meaning as assigned to it in section 9(7)(b).
+"Fees for technical services" shall have the meaning as assigned to it in section 9(7)(b) i.e. 
+“fees for technical services” means any consideration (including any lump sum consideration) for the rendering of any managerial, technical or consultancy services (including the provision of services of technical or other personnel) but does not include consideration— 
+	(_i_) for any construction, assembly, mining or like project undertaken by the recipient; or 
+	(_ii_) which would be income of the recipient chargeable under the head “Salaries”.
 
 ---
 
@@ -171,13 +141,13 @@ For the purposes of this Chapter,—
 
 ## 17 Foreign Institutional Investor
 
-"Foreign Institutional Investor" shall have the meaning as assigned to it in section 210(6)(a).
+"Foreign Institutional Investor" shall have the meaning as assigned to it in section 210(6)(a) i.e. “Foreign Institutional Investor” means such investor as specified in a notification by the Central Government;
 
 ---
 
 ## 18 Goods Carriage
 
-"Goods carriage" shall have the meaning as assigned to it in section 58(11)(d).
+"Goods carriage" shall have the meaning as assigned to it in section 58(11)(d) i.e. shall have the same meaning as respectively assigned to them in section 2 of the Motor Vehicles Act, 1988 (59 of 1988);
 
 ---
 
@@ -189,7 +159,7 @@ For the purposes of this Chapter,—
 
 ## 20 Investor
 
-"Investor" shall have the meaning assigned to it in section 221(6)(a), for the purposes of [[Section 393 - Tax to be Deducted at Source|section 393(1)]] [Table: Sl. No. 4(iv)] and [[Section 393 - Tax to be Deducted at Source|section 393(2)]] (Table: Sl. No. 9).
+"Investor" shall have the meaning assigned to it in section 221(6)(a), for the purposes of [[Section 393 - Tax to be Deducted at Source|section 393(1)]] [Table: Sl. No. 4(iv)] and [[Section 393 - Tax to be Deducted at Source|section 393(2)]] (Table: Sl. No. 9) i.e. “investor” means a person who is holder of any securitised debt instrument or securities or security receipt issued by the securitisation trust;
 
 ---
 
@@ -207,7 +177,10 @@ For the purposes of this Chapter,—
 
 ## 23 Non-Resident Indian
 
-"Non-resident Indian" shall have the meaning assigned to it in section 212(d).
+"Non-resident Indian" shall have the meaning assigned to it in section 212(d) i.e. 
+“non-resident Indian” means an individual, who is not a resident and is— 
+(_i_) a citizen of India; or 
+(_ii_) a person of Indian origin;
 
 ---
 
@@ -244,18 +217,17 @@ For the purposes of this Chapter,—
 	   (ii) if the payer is a company, the company itself including the principal officer thereof;
 
  (e) in the case of credit, or, as the case may be, payment of any other sum chargeable under the provisions of this Act—
-   (i) the payer himself; or
-   (ii) if the payer is a company, the company itself including the principal officer thereof;
+	 (i) the payer himself; or
+	 (ii) if the payer is a company, the company itself including the principal officer thereof;
 
  (f) in the case of credit, or as the case may be, payment of any sum chargeable under the provisions of this Act made by or on behalf of the Central Government or the State Government—
-   (i) the drawing and disbursing officer; or
-   (ii) any other person, by whatever name called,
+	 (i) the drawing and disbursing officer; or
+	 (ii) any other person, by whatever name called,
    responsible for crediting, or paying such sum;
-
- (g) in the case of a person not resident in India—
-   (i) the person himself; or
-   (ii) any person authorised by such person; or
-   (iii) the agent of such person in India including any person treated as an agent under section 306.
+(g) in the case of a person not resident in India—
+	(i) the person himself; or
+	(ii) any person authorised by such person; or
+	(iii) the agent of such person in India including any person treated as an agent under section 306.
 
 > *[Clause 27(c) substituted — "authorised person, referred in clause (c) of section 2 of the Foreign Exchange Management Act, 1999 (42 of 1999), responsible" — by the Finance Act, 2026, w.e.f. 1-4-2026.]*
 
@@ -270,22 +242,14 @@ For the purposes of this Chapter,—
 ## 29 Rent
 
 "Rent" means any payment, by whatever name called, under any lease, sub-lease, tenancy or any other agreement or arrangement for the use of (either separately or together) any—
-
- (a) land; or
-
- (b) building (including factory building); or
-
- (c) land appurtenant to a building (including factory building); or
-
- (d) machinery; or
-
- (e) plant; or
-
- (f) equipment; or
-
- (g) furniture; or
-
- (h) fittings,
+	(a) land; or
+	(b) building (including factory building); or
+	(c) land appurtenant to a building (including factory building); or
+	(d) machinery; or
+	(e) plant; or
+	(f) equipment; or
+	(g) furniture; or
+	(h) fittings,
 
 whether or not any or all of the above are owned by the payee, and for the purposes of [[Section 393 - Tax to be Deducted at Source|section 393(1)]] [Table: Sl. No. 2(i)], only the payment with reference to assets mentioned in sub-clauses (a), (b) and (c) shall be treated as rent.
 
@@ -293,7 +257,17 @@ whether or not any or all of the above are owned by the payee, and for the purpo
 
 ## 30 Royalty
 
-"Royalty" shall have the meaning assigned to it in section 9(6)(b).
+"Royalty" shall have the meaning assigned to it in section 9(6)(b) i.e
+“royalty” means consideration (including any lump sum consideration but excluding any consideration which would be the income of the recipient chargeable under the head “Capital gains”) for the following— 
+	(_i_) the transfer or grant of all or any rights (including the granting of a licence) in respect of a patent, invention, model, design, secret formula or process or trade mark or similar property; 
+	(_ii_) the imparting of any information concerning the working of, or the use of, a patent, invention, model, design, secret formula or process or trade mark or similar property;
+	(_iii_) the use of any patent, invention, model, design, secret formula or process or trade mark or similar property; 
+	(_iv_) the imparting of any information concerning technical, industrial, commercial or scientific knowledge, experience or skill; 
+	(_v_) the use or right to use any industrial, commercial or scientific equipment except the amounts referred in section 61(2) (Table: Sl. No. 5); 
+	(_vi_) the transfer or grant of all or any rights (including the granting of a licence) in respect of any copyright, literary, artistic or scientific work including— 
+		(_A_) films or video tapes for use in connection with television; or 
+		(_B_) tapes for use in connection with radio broadcasting; 
+	(_vii_) the rendering of services in connection with the activities referred to in sub-clauses (_i_) to (_vi_);
 
 ---
 
@@ -314,16 +288,11 @@ whether or not any or all of the above are owned by the payee, and for the purpo
 "Seller" means—
 
  (a) for the purposes of [[Section 394 - Collection of Tax at Source|section 394(1)]] (Table: Sl. Nos. 1 to 6),—
-
-   (i) the Central Government; or
-
-   (ii) a State Government; or
-
-   (iii) any local authority or corporation or authority established by or under a Central Act or State Act or Provincial Act; or
-
-   (iv) any company or firm or co-operative society; or
-
-   (v) an individual or a Hindu undivided family, whose total sales, gross receipts or turnover from the business or profession carried on by him exceed one crore rupees in case of business or fifty lakh rupees in case of profession during the tax year immediately preceding the tax year in which the goods of the nature specified in such serial numbers are sold;
+	 (i) the Central Government; or
+	 (ii) a State Government; or
+	 (iii) any local authority or corporation or authority established by or under a Central Act or State Act or Provincial Act; or
+	 (iv) any company or firm or co-operative society; or
+	 (v) an individual or a Hindu undivided family, whose total sales, gross receipts or turnover from the business or profession carried on by him exceed one crore rupees in case of business or fifty lakh rupees in case of profession during the tax year immediately preceding the tax year in which the goods of the nature specified in such serial numbers are sold;
 
  (b) for the purposes of [[Section 394 - Collection of Tax at Source|section 394(1)]] (Table: Sl. No. 8), a person who sells [[#26 Overseas Tour Programme Package|overseas tour programme package]].
 
@@ -359,7 +328,7 @@ whether or not any or all of the above are owned by the payee, and for the purpo
 
 ## 38 Special Purpose Vehicle
 
-"Special purpose vehicle" shall have the meaning in Schedule V (Note 2).
+"Special purpose vehicle" shall have the meaning in Schedule V (Note 2) i.e. “special purpose vehicle” means an Indian company in which the business trust holds controlling interest and any specific percentage of shareholding or interest, as may be required by the law under which such trust is granted registration.
 
 ---
 
@@ -389,7 +358,7 @@ whether or not any or all of the above are owned by the payee, and for the purpo
 
 ## 42 Unit
 
-"Unit" for the purposes of [[Section 393 - Tax to be Deducted at Source|section 393(1)]] [Table: Sl. No. 4(iii)] and [[Section 393 - Tax to be Deducted at Source|section 393(2)]] (Table: Sl. No. 8) shall have the meaning assigned to it in section 224(10)(c).
+"Unit" for the purposes of [[Section 393 - Tax to be Deducted at Source|section 393(1)]] [Table: Sl. No. 4(iii)] and [[Section 393 - Tax to be Deducted at Source|section 393(2)]] (Table: Sl. No. 8) shall have the meaning assigned to it in section 224(10)(c) i.e. “unit” means beneficial interest of an investor in the investment fund or a scheme of the investment fund and shall include shares or partnership interests..
 
 ---
 
@@ -420,28 +389,17 @@ whether or not any or all of the above are owned by the payee, and for the purpo
 ## 47 Work
 
 "Work" shall include—
-
- (a) advertising;
-
- (b) broadcasting and telecasting including production of programmes for such broadcasting or telecasting;
-
- (c) carriage of goods or passengers by any mode of transport other than by railways;
-
- (d) catering;
-
- (e) manufacturing or supplying a product according to the requirement or specification of a customer by using material purchased from—
-
-   (i) such customer; or
-
-   (ii) its associate, being a person placed similarly in relation to such customer as is the person placed in relation to the assessee under the provisions contained in section 36(3),
-
- but does not include—
-
-   (A) manufacturing or supplying a product according to the requirement or specification of a customer by using material purchased from a person, other than such customer or associate of such customer; or
-
-   (B) any sum referred to in [[Section 393 - Tax to be Deducted at Source|section 393(1)]] [Table: Sl. No. 6(iii)3].
-
- (f) supply of manpower to a person to work under his supervision, control or direction.
+	(a) advertising;
+	(b) broadcasting and telecasting including production of programmes for such broadcasting or telecasting;
+	(c) carriage of goods or passengers by any mode of transport other than by railways;
+	(d) catering;
+	(e) manufacturing or supplying a product according to the requirement or specification of a customer by using material purchased from—
+		 (i) such customer; or
+		 (ii) its associate, being a person placed similarly in relation to such customer as is the person placed in relation to the assessee under the provisions contained in section 36(3),
+	but does not include—
+		(A) manufacturing or supplying a product according to the requirement or specification of a customer by using material purchased from a person, other than such customer or associate of such customer; or
+		(B) any sum referred to in [[Section 393 - Tax to be Deducted at Source|section 393(1)]] [Table: Sl. No. 6(iii)3].
+	(f) supply of manpower to a person to work under his supervision, control or direction.
 
 > *[Clause (f) inserted by the Finance Act, 2026, w.e.f. 1-4-2026.]*
 

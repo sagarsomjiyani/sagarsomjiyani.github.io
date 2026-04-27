@@ -6,7 +6,9 @@
 (2) The person responsible for paying to a non-resident, not being a company, or to a foreign company, any sum which is not chargeable under the provisions of the Act, shall furnish the information in Part D of [[Form 145 - Information to be furnished for payments to a non-resident not being a company, or to a foreign company|Form No. 145]],.
 
 (3) No information shall be required to be furnished for any sum that is not chargeable under the Act, irrespective of sub-rule (2), if,—
-(a)  the remittance is made by an individual and it does not require prior approval of Reserve Bank of India as per the provisions of section 5 of theForeign Exchange Management Act, 1999 (42 of 1999) read with Schedule III to the Foreign Exchange (Current Account Transaction) Rules, 2000made under the said Act; or (b)  the remittance is made by a Unit of an International Financial Services Centre referred to in section 147(1)(b); or(c)  the remittance is of the nature specified in column C of the specified list below:
+	(a)  the remittance is made by an individual and it does not require prior approval of Reserve Bank of India as per the provisions of section 5 of theForeign Exchange Management Act, 1999 (42 of 1999) read with Schedule III to the Foreign Exchange (Current Account Transaction) Rules, 2000made under the said Act; or 
+	(b)  the remittance is made by a Unit of an International Financial Services Centre referred to in section 147(1)(b); or
+	(c)  the remittance is of the nature specified in column C of the specified list below:
 
 | Sl.No. (A) | Purpose code as per Reserve Bank of India (B) | Nature of payment (C) |
 | --- | --- | --- |

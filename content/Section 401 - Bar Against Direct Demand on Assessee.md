@@ -1,10 +1,3 @@
-# Section 401 — Bar Against Direct Demand on Assessee
-
-> **Chapter XIX — Collection and Recovery of Tax**
-> **Part B — Deduction and Collection at Source**
-
----
-
 Where tax is deductible at the source under this Chapter, the assessee shall not be called upon to pay the tax himself to the extent to which tax has been deducted from that income.
 
 ---
